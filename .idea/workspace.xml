@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="OK">
-      <change afterPath="$PROJECT_DIR$/src/wiek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/instrukcja_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.whileLoopDoWhileLoop">
+    <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forLoop" />
+      <module name="QA_TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="instrukcja_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="instrukcja_Switch" />
+      <module name="QA_TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileLoopDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileLoopDoWhileLoop" />
+      <module name="QA_TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="wiek_if_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wiek_if_else" />
       <module name="QA_TestJava" />
@@ -48,6 +71,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.whileLoopDoWhileLoop" />
+        <item itemvalue="Application.forLoop" />
+        <item itemvalue="Application.instrukcja_Switch" />
         <item itemvalue="Application.wiek_if_else" />
       </list>
     </recent_temporary>
@@ -68,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682006255495</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OK">
+      <created>1682091025722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682091025722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
