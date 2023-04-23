@@ -14,7 +14,6 @@ public class Auto {
         System.out.println("Marka: " + marka);
         System.out.println("Model: " + model);
         System.out.println("Rocznik: " + rocznik);
-        System.out.println("Marka: " + marka);
-        System.out.println("Przebieg: " + przebieg);
+        System.out.println("Przebieg: " + przebieg + "\n");
     }
 }

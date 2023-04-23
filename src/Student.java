@@ -4,9 +4,9 @@ public class Student {
     public int nrIndexu;
 
     public void welcome() {
-        System.out.println("Nazywam sie " + imie " " + nazwisko);
+        System.out.println("Nazywam sie " + imie + " " + nazwisko);
     }
     public void nrAlbumu () {
-        System.out.println("Moj nr. indexu: " + nrIndexu);
+        System.out.println("Moj nr. indexu: " + nrIndexu + "\n");
     }
 }
