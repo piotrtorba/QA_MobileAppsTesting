@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="None">
-      <change afterPath="$PROJECT_DIR$/src/AutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodyTEST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StudentChecker">
+}</component>
+  <component name="RunManager" selected="Application.MetodyTEST">
     <configuration name="AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AutoTest" />
+      <module name="QA_TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetodyTEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodyTEST" />
       <module name="QA_TestJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tablica" />
-      <module name="QA_TestJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="num1to100mod3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="num1to100mod3" />
       <module name="QA_TestJava" />
@@ -79,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MetodyTEST" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.AutoTest" />
         <item itemvalue="Application.OdwrocenieTablicy" />
         <item itemvalue="Application.num1to100mod3" />
-        <item itemvalue="Application.Tablica" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682275849580</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="None">
+      <created>1682278072325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682278072325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
