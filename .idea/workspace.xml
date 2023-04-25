@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="None">
-      <change afterPath="$PROJECT_DIR$/src/Metody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MetodyTEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +41,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MetodyTEST">
+  <component name="RunManager" selected="Application.CalculatorRun">
     <configuration name="AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AutoTest" />
+      <module name="QA_TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorRun" />
       <module name="QA_TestJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num1to100mod3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="num1to100mod3" />
-      <module name="QA_TestJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorRun" />
         <item itemvalue="Application.MetodyTEST" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.AutoTest" />
         <item itemvalue="Application.OdwrocenieTablicy" />
-        <item itemvalue="Application.num1to100mod3" />
       </list>
     </recent_temporary>
   </component>
