@@ -4,12 +4,19 @@ public class Auto {
     public int rocznik;
     public int przebieg;
 
-    public void jedz() {
+    public Auto (String make, String model, int pYear, int milage) {
+        this.marka = make;
+        this.model = model;
+        this.rocznik = pYear;
+        this.przebieg = milage;
+    }
+
+    /*public void jedz() {
         System.out.println("Jedz");
     }
     public void hamuj() {
         System.out.println("Hamowanie");
-    }
+    }*/
     public void info() {
         System.out.println("Marka: " + marka);
         System.out.println("Model: " + model);

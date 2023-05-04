@@ -1,6 +1,9 @@
 public class AutoTest {
     public static void main(String[] args) {
-        Auto nissan = new Auto();
+        Auto honda = new Auto("Honda", "S2000", 1999, 68650);
+        honda.info();
+
+        /*Auto nissan = new Auto();
         nissan.marka = "Nissan";
         nissan.model = "Skyline GT-R, R34";
         nissan.rocznik = 1999;
@@ -16,6 +19,6 @@ public class AutoTest {
         toyota.rocznik = 1999;
         toyota.przebieg = 10000;
 
-        toyota.info();
+        toyota.info();*/
     }
 }
