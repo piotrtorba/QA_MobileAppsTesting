@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Homework (Inharitage, construktors &amp; 'super')">
-      <change afterPath="$PROJECT_DIR$/src/Identifiers/first/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Identifiers/first/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Identifiers/first/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Identifiers/second/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Identifiers/second/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodNameRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/AppRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/database/DataBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/database/DataBaseUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/view/AccountView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/view/HomepageView.java" afterDir="false" />
+    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Modyfikatory dostepu, dostep do nich oraz dziedziczenie.">
+      <change afterPath="$PROJECT_DIR$/src/FinalRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadOnly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/first/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identifiers/first/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/second/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identifiers/second/Random.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683391577965</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Modyfikatory dostepu, dostep do nich oraz dziedziczenie.">
+      <created>1683398243623</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683398243623</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +231,7 @@
     <MESSAGE value="Jakies proste petle i przypomnienie Java" />
     <MESSAGE value="None" />
     <MESSAGE value="Homework (Inharitage, construktors &amp; 'super')" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework (Inharitage, construktors &amp; 'super')" />
+    <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie." />
   </component>
 </project>

@@ -3,7 +3,8 @@ package Identifiers.second;
 import Identifiers.first.Parent;
 
 public class Random {
-    /* Dostep do pol i metod poprzez obiekt klasy 'Parent' zachowuje podobne wlasciwosci dziedziczenia */
+    /* Dostep do pol i metod poprzez obiekt klasy 'Parent' zachowuje podobne wlasciwosci jednak poprzez dostep przez
+     * obiekt nie ma tez dostepu do pola 'protected' */
     public void testIdentifier() {
         Parent obiektKlasyParent = new Parent();
         System.out.println(obiektKlasyParent.first);
