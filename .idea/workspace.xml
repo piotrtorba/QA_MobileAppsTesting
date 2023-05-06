@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="None">
+      <change afterPath="$PROJECT_DIR$/src/PersonRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathTeacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/popo/Documents/code/QA_TestJava/QA_TestJava"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/popo/Documents/code/QA_TestJava/QA_TestJava&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CalculatorRun">
+}</component>
+  <component name="RunManager" selected="Application.PersonRun">
     <configuration name="AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AutoTest" />
       <module name="QA_TestJava" />
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OdwrocenieTablicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OdwrocenieTablicy" />
+    <configuration name="PersonRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonRun" />
       <module name="QA_TestJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonRun" />
         <item itemvalue="Application.CalculatorRun" />
         <item itemvalue="Application.MetodyTEST" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.AutoTest" />
-        <item itemvalue="Application.OdwrocenieTablicy" />
       </list>
     </recent_temporary>
   </component>
