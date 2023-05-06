@@ -5,6 +5,10 @@ public class Footballer extends Person {
         super(name, age);
         this.club = club;
     }
+    public void eat() {
+        System.out.println("I like healthy food."); //Nadpisanie metody eat() ktora poczatkowo byla zdefiniowana
+                                                    //w klasie Person
+    }
 
     public void play() {
         System.out.println("I play football");

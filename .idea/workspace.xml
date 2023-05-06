@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Homework (Inharitage, construktors &amp; 'super')">
-      <change beforePath="$PROJECT_DIR$/src/AppsRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppsRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identifiers/first/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identifiers/first/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identifiers/first/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identifiers/second/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identifiers/second/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodNameRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/AppRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/database/DataBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/database/DataBaseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/view/AccountView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pl/testeroprogramowania/app/view/HomepageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +53,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/popo/Documents/code/QA_TestJava/QA_TestJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AppsRun">
+  <component name="RunManager" selected="Application.MethodNameRun">
     <configuration name="AppsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppsRun" />
       <module name="QA_TestJava" />
@@ -50,6 +63,13 @@
     </configuration>
     <configuration name="CalculatorRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculatorRun" />
+      <module name="QA_TestJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodNameRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodNameRun" />
       <module name="QA_TestJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentChecker" />
-      <module name="QA_TestJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppsRun" />
+        <item itemvalue="Application.MethodNameRun" />
         <item itemvalue="Application.PersonRun" />
+        <item itemvalue="Application.AppsRun" />
         <item itemvalue="Application.CalculatorRun" />
         <item itemvalue="Application.MetodyTEST" />
-        <item itemvalue="Application.StudentChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683391497916</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Homework (Inharitage, construktors &amp; 'super')">
+      <created>1683391577965</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683391577965</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
