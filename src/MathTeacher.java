@@ -6,6 +6,7 @@ public class MathTeacher extends Person {
         this.school = school;
     }
     //Test comment
+    //Test comment2
 
     public void teach() {
         System.out.println("Im teaching Math");
