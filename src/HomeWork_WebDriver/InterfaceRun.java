@@ -1,24 +1,24 @@
 package HomeWork_WebDriver;
 
 public class InterfaceRun {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NoValidBrowserName {
 
         /*Inny sposob zakodowania 'InterfaceRun' wykozystujacy polimorfizm i zmniejszajacy ilosc kodu*/
 
-        WebDriver driver = getDriver("firefox"); /*Wywolanie jakby zmiennej 'driver', ktora jest metoda getDriver
+        WebDriver driver = getDriver("firefoxx"); /*Wywolanie jakby zmiennej 'driver', ktora jest metoda getDriver
          z argumentem, z koleji ktora implementuje metody z Interfejsu 'WebDriver'*/
         driver.get();
         driver.findElementBy();
         driver.findElementBy();
         driver.findElementBy();
     }
-    private static WebDriver getDriver(String name) { //Logika metody getDriver()
+    private static WebDriver getDriver(String name) throws NoValidBrowserName { //Logika metody getDriver()
         if(name.equals("chrome")) {
             return new ChromeDriver();
         } else if (name.equals("firefox")) {
             return new FirefoxDriver();
         }
-        return null;
+        throw new NoValidBrowserName("No valid browser name!");
 
         /* -------------- Stary sposob --------------
         ChromeDriver chromeDriver = new ChromeDriver();
