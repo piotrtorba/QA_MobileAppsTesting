@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="keyword 'final' oraz interfejsy">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/WebDriver/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/WebDriver/FirefoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/WebDriver/InterfaceRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorks/WebDriver/WebDriver.java" afterDir="false" />
+    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="interfejsy">
+      <change afterPath="$PROJECT_DIR$/src/Document/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Document/DocumentRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Document/ExcelDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Document/pdfDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_WebDriver/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_WebDriver/FirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_WebDriver/InterfaceRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_WebDriver/WebDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/first/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/first/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/first/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/second/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiers/second/Random.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +36,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -59,17 +67,29 @@
     &quot;last_opened_file_path&quot;: &quot;/home/popo/Documents/code/QA_TestJava/QA_TestJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InterfaceRun">
-    <configuration name="AppsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppsRun" />
+  <component name="RunManager" selected="Application.DocumentRun">
+    <configuration name="DocumentRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Document.DocumentRun" />
       <module name="QA_TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Document.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorRun" />
+    <configuration name="HomeWork_WebDriver.InterfaceRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_WebDriver.InterfaceRun" />
       <module name="QA_TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_WebDriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DocumentRun" />
+        <item itemvalue="Application.HomeWork_WebDriver.InterfaceRun" />
         <item itemvalue="Application.InterfaceRun" />
         <item itemvalue="Application.MethodNameRun" />
         <item itemvalue="Application.PersonRun" />
-        <item itemvalue="Application.AppsRun" />
-        <item itemvalue="Application.CalculatorRun" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683451028242</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="interfejsy">
+      <created>1683452342999</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683452342999</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +296,7 @@
     <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie." />
     <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie i keyword 'final'." />
     <MESSAGE value="keyword 'final' oraz interfejsy" />
-    <option name="LAST_COMMIT_MESSAGE" value="keyword 'final' oraz interfejsy" />
+    <MESSAGE value="interfejsy" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfejsy" />
   </component>
 </project>
