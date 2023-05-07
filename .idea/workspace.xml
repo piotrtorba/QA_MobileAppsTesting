@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Polimorfizm - inny sposob implementacji tego samego kodu">
-      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/AnimalRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Dog.java" afterDir="false" />
+    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Home Work - Age checker exception.">
+      <change afterPath="$PROJECT_DIR$/src/Files/DeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/NewFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/WriteFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +58,18 @@
     &quot;last_opened_file_path&quot;: &quot;/home/popo/Documents/code/QA_TestJava/QA_TestJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AnimalRun">
-    <configuration name="AnimalRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Animals.AnimalRun" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeleteFile">
+    <configuration name="DeleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Files.DeleteFile" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Animals.*" />
+          <option name="PATTERN" value="Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DocumentRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Document.DocumentRun" />
+    <configuration name="ExceptionsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_Exceptions.ExceptionsRun" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Document.*" />
+          <option name="PATTERN" value="HomeWork_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork_WebDriver.InterfaceRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_WebDriver.InterfaceRun" />
+    <configuration name="NewFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Files.NewFile" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork_WebDriver.*" />
+          <option name="PATTERN" value="Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.WebDriver.InterfaceRun" />
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Files.ReadFile" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWorks.WebDriver.*" />
+          <option name="PATTERN" value="Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,20 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodNameRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodNameRun" />
+    <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Files.WriteFile" />
       <module name="QA_TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnimalRun" />
-        <item itemvalue="Application.HomeWork_WebDriver.InterfaceRun" />
-        <item itemvalue="Application.DocumentRun" />
-        <item itemvalue="Application.InterfaceRun" />
-        <item itemvalue="Application.MethodNameRun" />
+        <item itemvalue="Application.DeleteFile" />
+        <item itemvalue="Application.NewFile" />
+        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.WriteFile" />
+        <item itemvalue="Application.ExceptionsRun" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +323,49 @@
       <option name="project" value="LOCAL" />
       <updated>1683455366640</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Klasy i Metody Abstrakcyjne">
+      <created>1683456465411</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1683456465411</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Konwersja typow">
+      <created>1683461801235</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1683461801235</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Wyjatki (Unchecked)">
+      <created>1683461833579</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1683461833579</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Wyjatki (Checked)">
+      <created>1683476000714</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1683476000714</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Wyjatki (Checked)">
+      <created>1683476662265</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1683476662265</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Home Work - Age checker exception.">
+      <created>1683480549944</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1683480549944</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +393,11 @@
     <MESSAGE value="Implementacja klas za pomoca interfejsu" />
     <MESSAGE value="Polimorfizm z uzyciem klas za pomoca 'extend'" />
     <MESSAGE value="Polimorfizm - inny sposob implementacji tego samego kodu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polimorfizm - inny sposob implementacji tego samego kodu" />
+    <MESSAGE value="Klasy i Metody Abstrakcyjne" />
+    <MESSAGE value="Konwersja typow" />
+    <MESSAGE value="Wyjatki (Unchecked)" />
+    <MESSAGE value="Wyjatki (Checked)" />
+    <MESSAGE value="Home Work - Age checker exception." />
+    <option name="LAST_COMMIT_MESSAGE" value="Home Work - Age checker exception." />
   </component>
 </project>
