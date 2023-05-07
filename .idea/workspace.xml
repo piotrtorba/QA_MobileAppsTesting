@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Polimorfizm - inny sposob implementacji tego samego kodu">
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_WebDriver/InterfaceRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_WebDriver/InterfaceRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/AnimalRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,20 @@
     &quot;last_opened_file_path&quot;: &quot;/home/popo/Documents/code/QA_TestJava/QA_TestJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWork_WebDriver.InterfaceRun">
+  <component name="RunManager" selected="Application.AnimalRun">
+    <configuration name="AnimalRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animals.AnimalRun" />
+      <module name="QA_TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DocumentRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Document.DocumentRun" />
       <module name="QA_TestJava" />
@@ -101,20 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonRun" />
-      <module name="QA_TestJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalRun" />
         <item itemvalue="Application.HomeWork_WebDriver.InterfaceRun" />
         <item itemvalue="Application.DocumentRun" />
         <item itemvalue="Application.InterfaceRun" />
         <item itemvalue="Application.MethodNameRun" />
-        <item itemvalue="Application.PersonRun" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683455338592</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Polimorfizm - inny sposob implementacji tego samego kodu">
+      <created>1683455366640</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1683455366640</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
