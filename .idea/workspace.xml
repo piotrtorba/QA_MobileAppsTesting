@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Modyfikatory dostepu, dostep do nich oraz dziedziczenie.">
-      <change afterPath="$PROJECT_DIR$/src/FinalRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadOnly.java" afterDir="false" />
+    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Modyfikatory dostepu, dostep do nich oraz dziedziczenie i keyword 'final'.">
+      <change afterPath="$PROJECT_DIR$/src/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Identifiers/first/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identifiers/first/Random.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Identifiers/second/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identifiers/second/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -211,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683398243623</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Modyfikatory dostepu, dostep do nich oraz dziedziczenie i keyword 'final'.">
+      <created>1683399591440</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683399591440</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +240,7 @@
     <MESSAGE value="None" />
     <MESSAGE value="Homework (Inharitage, construktors &amp; 'super')" />
     <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie." />
+    <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie i keyword 'final'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie i keyword 'final'." />
   </component>
 </project>
