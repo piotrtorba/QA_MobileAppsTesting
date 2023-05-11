@@ -17,7 +17,7 @@ public class StudentRun {
         sayHello("Kasia", Medstudent);
 
         //3. Lambda - mozna skozystac z Lambda tylko gdy mamy interfejs funkcjonalny zawierajacy tylko 1 metode
-        // (parametr/y) -> System.out.println("I'm not a student");
+        // (parametr/y) -> System.out.println("I'm not a student.");
 
         //Przypisanie wyrazenia lambda do zmiennej 'noStudent'.
         Student noStudent = (name) -> System.out.println("I'm not a student. My name is " + name);
