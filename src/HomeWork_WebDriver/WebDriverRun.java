@@ -5,6 +5,12 @@ public class WebDriverRun {
 
         /*Inny sposob zakodowania 'InterfaceRun' wykozystujacy polimorfizm i zmniejszajacy ilosc kodu*/
 
+        DriverType[] driverTypes = DriverType.values();
+        for (int i=0; i<driverTypes.length; i++) {
+            System.out.println(driverTypes[i].name);
+            System.out.println(driverTypes[i].path);
+        }
+
         WebDriver driver = getDriver(DriverType.CHROME); /*Wywolanie jakby zmiennej 'driver', ktora jest metoda getDriver
          z argumentem, z koleji ktora implementuje metody z Interfejsu 'WebDriver'*/
         driver.get();
