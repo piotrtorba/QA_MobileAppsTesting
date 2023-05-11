@@ -3,6 +3,7 @@ package Lists;
 import Lambda.ITstudent;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -53,6 +54,9 @@ public class ListsRun {
         for (String name : names) {
             System.out.println(name);
         }
+
+        /*List<String> words = new ArrayList<>(Arrays.asList("Hello", "World", "this", "is", "Java!"));
+        System.out.println(words.get(0)+" "+words.get(1)+" "+words.get(2)+" "+words.get(3)+" "+words.get(words.size()-1));*/
 
 
     }
