@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Home Work - Age checker exception.">
-      <change afterPath="$PROJECT_DIR$/src/Files/DeleteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/NewFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Files/WriteFile.java" afterDir="false" />
+    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Collections - Lists">
+      <change afterPath="$PROJECT_DIR$/src/Collections_Sets/SetsRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lists/ListsRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections_Lists/ListsRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -63,13 +62,13 @@
       <recent name="$PROJECT_DIR$/src/Files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeleteFile">
-    <configuration name="DeleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Files.DeleteFile" />
+  <component name="RunManager" selected="Application.SetsRun">
+    <configuration name="ListsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections_Lists.ListsRun" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Files.*" />
+          <option name="PATTERN" value="Collections_Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_Exceptions.ExceptionsRun" />
+    <configuration name="SetsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections_Sets.SetsRun" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork_Exceptions.*" />
+          <option name="PATTERN" value="Collections_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Files.NewFile" />
+    <configuration name="StreamRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.StreamRun" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Files.*" />
+          <option name="PATTERN" value="Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Files.ReadFile" />
+    <configuration name="StudentRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.StudentRun" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Files.*" />
+          <option name="PATTERN" value="Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Files.WriteFile" />
+    <configuration name="StudentRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.StudentRun" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Files.*" />
+          <option name="PATTERN" value="Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeleteFile" />
-        <item itemvalue="Application.NewFile" />
-        <item itemvalue="Application.ReadFile" />
-        <item itemvalue="Application.WriteFile" />
-        <item itemvalue="Application.ExceptionsRun" />
+        <item itemvalue="Application.SetsRun" />
+        <item itemvalue="Application.ListsRun" />
+        <item itemvalue="Application.StreamRun" />
+        <item itemvalue="Application.StudentRun" />
+        <item itemvalue="Application.StudentRun (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +364,91 @@
       <option name="project" value="LOCAL" />
       <updated>1683480549944</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Files Operations">
+      <created>1683481901439</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1683481901439</updated>
+    </task>
+    <task id="LOCAL-00033" summary="N/A">
+      <created>1683481922284</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1683481922284</updated>
+    </task>
+    <task id="LOCAL-00034" summary="N/A">
+      <created>1683650418335</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1683650418336</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Enum 1">
+      <created>1683659343359</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1683659343359</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Enum 2">
+      <created>1683806662128</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1683806662128</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Klasa Anonimowa">
+      <created>1683806697831</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1683806697831</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Lambda">
+      <created>1683812037839</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1683812037839</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Lambda">
+      <created>1683812268812</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1683812268812</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Lambda">
+      <created>1683815469156</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1683815469156</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Stream - tworzenie, przetwazanie,konczenie">
+      <created>1683815505027</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1683815505027</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Collections - Lists">
+      <created>1683829218538</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1683829218538</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Collections - Lists">
+      <created>1683831011217</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1683831011217</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,7 +472,6 @@
     <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie i keyword 'final'." />
     <MESSAGE value="keyword 'final' oraz interfejsy" />
     <MESSAGE value="interfejsy" />
-    <MESSAGE value="N/A" />
     <MESSAGE value="Implementacja klas za pomoca interfejsu" />
     <MESSAGE value="Polimorfizm z uzyciem klas za pomoca 'extend'" />
     <MESSAGE value="Polimorfizm - inny sposob implementacji tego samego kodu" />
@@ -398,6 +480,14 @@
     <MESSAGE value="Wyjatki (Unchecked)" />
     <MESSAGE value="Wyjatki (Checked)" />
     <MESSAGE value="Home Work - Age checker exception." />
-    <option name="LAST_COMMIT_MESSAGE" value="Home Work - Age checker exception." />
+    <MESSAGE value="Files Operations" />
+    <MESSAGE value="N/A" />
+    <MESSAGE value="Enum 1" />
+    <MESSAGE value="Enum 2" />
+    <MESSAGE value="Klasa Anonimowa" />
+    <MESSAGE value="Lambda" />
+    <MESSAGE value="Stream - tworzenie, przetwazanie,konczenie" />
+    <MESSAGE value="Collections - Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections - Lists" />
   </component>
 </project>
