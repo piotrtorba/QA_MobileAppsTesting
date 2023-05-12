@@ -1,9 +1,8 @@
-package Lists;
+package Collections_Lists;
 
 import Lambda.ITstudent;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
