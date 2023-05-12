@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Collections - Lists">
-      <change afterPath="$PROJECT_DIR$/src/Collections_Sets/SetsRun.java" afterDir="false" />
+    <list default="true" id="23a22698-dc12-46a5-b5bd-c5c3afcdf0b5" name="Changes" comment="Collections - Maps">
+      <change afterPath="$PROJECT_DIR$/src/Java_Course/ExampleFibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Course/ExamplePalindrom/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Course/ExampleZliczanieWystapien/zliczanieWystapien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lists/ListsRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections_Lists/ListsRun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +60,43 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Course" />
       <recent name="$PROJECT_DIR$/src/Files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetsRun">
-    <configuration name="ListsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections_Lists.ListsRun" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Course.ExampleFibonacci.Fibonacci" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections_Lists.*" />
+          <option name="PATTERN" value="Java_Course.ExampleFibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Course.Maps.MapsRun" />
+      <module name="QA_TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Course.Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Course.ExamplePalindrom.Palindrom" />
+      <module name="QA_TestJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Course.ExamplePalindrom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,38 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.StreamRun" />
+    <configuration name="zliczanieWystapien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Course.ExampleZliczanieWystapien.zliczanieWystapien" />
       <module name="QA_TestJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.StudentRun" />
-      <module name="QA_TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.StudentRun" />
-      <module name="QA_TestJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lambda.*" />
+          <option name="PATTERN" value="Java_Course.ExampleZliczanieWystapien.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Palindrom" />
+        <item itemvalue="Application.zliczanieWystapien" />
+        <item itemvalue="Application.MapsRun" />
         <item itemvalue="Application.SetsRun" />
-        <item itemvalue="Application.ListsRun" />
-        <item itemvalue="Application.StreamRun" />
-        <item itemvalue="Application.StudentRun" />
-        <item itemvalue="Application.StudentRun (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +450,42 @@
       <option name="project" value="LOCAL" />
       <updated>1683831011217</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Collections - Lists">
+      <created>1683879432333</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1683879432334</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Collections - Sets">
+      <created>1683879450061</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1683879450061</updated>
+    </task>
+    <task id="LOCAL-00046" summary="All in Java_Course Package">
+      <created>1683879660010</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1683879660010</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Collections - Sets">
+      <created>1683879838002</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1683879838002</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Collections - Maps">
+      <created>1683882985448</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1683882985448</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,9 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nnon" />
-    <MESSAGE value="OK" />
-    <MESSAGE value="Jakies proste petle i przypomnienie Java" />
     <MESSAGE value="None" />
     <MESSAGE value="Homework (Inharitage, construktors &amp; 'super')" />
     <MESSAGE value="Modyfikatory dostepu, dostep do nich oraz dziedziczenie." />
@@ -488,6 +522,9 @@
     <MESSAGE value="Lambda" />
     <MESSAGE value="Stream - tworzenie, przetwazanie,konczenie" />
     <MESSAGE value="Collections - Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections - Lists" />
+    <MESSAGE value="All in Java_Course Package" />
+    <MESSAGE value="Collections - Sets" />
+    <MESSAGE value="Collections - Maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections - Maps" />
   </component>
 </project>
