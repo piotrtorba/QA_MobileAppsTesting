@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class SetsRun {
     public static void main(String[] args) {
+        // Set-y nie zwieraja indexow i nie moga zawierac duplikatow
 
         Set<String> fruits = new HashSet<>();
         fruits.add("apple");
